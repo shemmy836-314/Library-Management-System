@@ -83,7 +83,7 @@ LIBRARY-MANAGEMENT-SYSTEM/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/karupothulamalliswari3112/LIBRARY-MANAGEMENT-SYSTEM.git
+git clone https://github.com/shemmy836-314/Library-Management-System
 ```
 
 ### Compile
@@ -197,7 +197,7 @@ Through this project, I gained practical experience in:
 
 # 👩‍💻 Author
 
-**URAVAKODA SAMEEDA**
+**Uravakonda Sameeda**
 
 🎓 B.Tech – Computer Science & Engineering
 
